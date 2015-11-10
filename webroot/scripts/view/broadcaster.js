@@ -11,7 +11,7 @@ define(
 		$
 	){
 		var broadcasterOptions = {
-			url: 'https://www.ustream.tv/flash/broadcastair.token.swf',
+			url: '//www.ustream.tv/flash/broadcastair.token.swf',
 			id: 'Broadcaster',
 			width: 640,
 			height: 765,
